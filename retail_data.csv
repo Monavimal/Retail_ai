@@ -1,0 +1,601 @@
+CustomerID,Product,Category,Quantity,Price,OrderDate,Review
+151,Laptop,Electronics,4,55000,2024-07-08,Excellent product
+192,Headphones,Electronics,4,3000,2024-02-06,Not bad
+114,T-shirt,Fashion,1,800,2024-07-01,Worth the money
+171,Laptop,Electronics,1,55000,2024-10-05,Terrible experience
+160,Laptop,Electronics,1,55000,2024-12-20,Satisfied
+120,Bag,Accessories,1,1800,2024-10-12,Excellent product
+182,Phone,Electronics,4,15000,2024-03-02,Very good
+186,T-shirt,Fashion,2,800,2024-08-04,Not bad
+174,Phone,Electronics,3,15000,2024-07-05,Terrible experience
+174,T-shirt,Fashion,4,800,2024-06-25,Terrible experience
+187,Bag,Accessories,3,1800,2024-08-20,Not bad
+199,Tablet,Electronics,1,22000,2024-03-16,Satisfied
+123,Headphones,Electronics,2,3000,2024-10-10,Excellent product
+102,Shoes,Fashion,4,2000,2024-08-10,Amazing!
+121,Watch,Accessories,3,2500,2024-02-21,Could be better
+152,Shoes,Fashion,1,2000,2024-05-23,Not bad
+101,Watch,Accessories,3,2500,2024-03-09,Very good
+187,Laptop,Electronics,4,55000,2024-01-25,Amazing!
+129,Laptop,Electronics,3,55000,2024-02-22,Poor quality
+137,Watch,Accessories,1,2500,2024-05-23,Satisfied
+101,Headphones,Electronics,1,3000,2024-02-08,Excellent product
+163,Tablet,Electronics,2,22000,2024-06-29,Terrible experience
+159,Laptop,Electronics,3,55000,2024-07-04,Amazing!
+120,Laptop,Electronics,2,55000,2024-08-10,Terrible experience
+132,Headphones,Electronics,3,3000,2024-05-12,Satisfied
+175,Watch,Accessories,1,2500,2024-08-02,Satisfied
+157,T-shirt,Fashion,3,800,2024-08-22,Very good
+121,Phone,Electronics,3,15000,2024-05-25,Not bad
+188,Headphones,Electronics,1,3000,2024-03-16,Very good
+148,T-shirt,Fashion,2,800,2024-03-14,Very good
+190,Bag,Accessories,2,1800,2024-09-09,Could be better
+158,Tablet,Electronics,2,22000,2024-01-07,Poor quality
+141,Shoes,Fashion,4,2000,2024-05-20,Poor quality
+191,Watch,Accessories,1,2500,2024-06-18,Not bad
+159,Headphones,Electronics,2,3000,2024-10-09,Very good
+179,Shoes,Fashion,1,2000,2024-07-12,Terrible experience
+114,T-shirt,Fashion,1,800,2024-01-29,Worth the money
+161,Tablet,Electronics,4,22000,2024-12-04,Amazing!
+161,Headphones,Electronics,1,3000,2024-12-30,Terrible experience
+146,T-shirt,Fashion,4,800,2024-12-07,Poor quality
+161,Phone,Electronics,3,15000,2024-05-24,Not bad
+150,Phone,Electronics,1,15000,2024-11-22,Poor quality
+154,Bag,Accessories,4,1800,2024-10-27,Could be better
+163,Laptop,Electronics,2,55000,2024-10-18,Not bad
+102,Watch,Accessories,3,2500,2024-09-08,Not bad
+150,Tablet,Electronics,1,22000,2024-10-01,Amazing!
+106,Tablet,Electronics,2,22000,2024-12-29,Worth the money
+120,Headphones,Electronics,3,3000,2024-06-15,Worth the money
+172,T-shirt,Fashion,2,800,2024-07-20,Terrible experience
+138,Headphones,Electronics,3,3000,2024-01-19,Satisfied
+117,Bag,Accessories,3,1800,2024-05-05,Satisfied
+103,Bag,Accessories,1,1800,2024-06-21,Poor quality
+188,T-shirt,Fashion,4,800,2024-08-29,Worth the money
+159,Tablet,Electronics,2,22000,2024-05-05,Very good
+113,Phone,Electronics,4,15000,2024-05-27,Very good
+108,Shoes,Fashion,3,2000,2024-11-12,Worth the money
+189,Bag,Accessories,3,1800,2024-12-26,Satisfied
+152,Laptop,Electronics,3,55000,2024-01-01,Amazing!
+101,Bag,Accessories,2,1800,2024-12-13,Satisfied
+183,Tablet,Electronics,4,22000,2024-07-09,Terrible experience
+191,Headphones,Electronics,1,3000,2024-11-07,Terrible experience
+159,Phone,Electronics,2,15000,2024-04-26,Very good
+170,Headphones,Electronics,4,3000,2024-02-27,Poor quality
+143,Laptop,Electronics,4,55000,2024-06-21,Could be better
+107,Bag,Accessories,1,1800,2024-06-21,Worth the money
+146,Tablet,Electronics,1,22000,2024-10-29,Excellent product
+134,Headphones,Electronics,2,3000,2024-03-20,Terrible experience
+177,Shoes,Fashion,3,2000,2024-07-31,Terrible experience
+180,Laptop,Electronics,1,55000,2024-09-08,Could be better
+135,T-shirt,Fashion,3,800,2024-06-12,Worth the money
+149,Watch,Accessories,4,2500,2024-05-26,Worth the money
+103,Phone,Electronics,1,15000,2024-02-16,Satisfied
+101,Watch,Accessories,2,2500,2024-10-31,Loved it
+105,Phone,Electronics,3,15000,2024-05-22,Very good
+153,Watch,Accessories,1,2500,2024-01-01,Could be better
+103,T-shirt,Fashion,2,800,2024-02-23,Excellent product
+153,T-shirt,Fashion,4,800,2024-09-15,Satisfied
+192,Laptop,Electronics,2,55000,2024-01-12,Very good
+162,Tablet,Electronics,4,22000,2024-08-11,Very good
+117,Shoes,Fashion,4,2000,2024-12-23,Worth the money
+189,Tablet,Electronics,1,22000,2024-06-04,Terrible experience
+143,Shoes,Fashion,2,2000,2024-01-08,Could be better
+133,Bag,Accessories,4,1800,2024-12-13,Not bad
+173,T-shirt,Fashion,4,800,2024-03-30,Could be better
+161,Bag,Accessories,4,1800,2024-07-04,Poor quality
+199,Tablet,Electronics,4,22000,2024-06-26,Terrible experience
+113,Tablet,Electronics,1,22000,2024-08-07,Very good
+194,T-shirt,Fashion,4,800,2024-02-10,Not bad
+147,Laptop,Electronics,3,55000,2024-07-10,Poor quality
+114,Phone,Electronics,1,15000,2024-05-24,Satisfied
+171,T-shirt,Fashion,1,800,2024-07-30,Satisfied
+177,T-shirt,Fashion,4,800,2024-08-07,Excellent product
+186,Laptop,Electronics,3,55000,2024-02-15,Excellent product
+161,T-shirt,Fashion,2,800,2024-09-09,Very good
+139,Phone,Electronics,3,15000,2024-03-22,Poor quality
+184,Laptop,Electronics,1,55000,2024-09-12,Terrible experience
+179,T-shirt,Fashion,1,800,2024-10-29,Could be better
+181,Tablet,Electronics,4,22000,2024-01-10,Not bad
+152,Shoes,Fashion,2,2000,2024-10-12,Satisfied
+123,Tablet,Electronics,1,22000,2024-09-07,Not bad
+125,Tablet,Electronics,3,22000,2024-01-05,Amazing!
+188,T-shirt,Fashion,2,800,2024-10-15,Very good
+159,Laptop,Electronics,2,55000,2024-03-05,Amazing!
+140,Watch,Accessories,3,2500,2024-08-11,Amazing!
+128,Bag,Accessories,3,1800,2024-06-25,Loved it
+114,Phone,Electronics,2,15000,2024-12-06,Very good
+144,Phone,Electronics,1,15000,2024-03-03,Amazing!
+164,Watch,Accessories,3,2500,2024-12-07,Very good
+188,T-shirt,Fashion,1,800,2024-10-09,Not bad
+170,T-shirt,Fashion,1,800,2024-04-07,Terrible experience
+108,Tablet,Electronics,3,22000,2024-04-08,Worth the money
+187,Bag,Accessories,2,1800,2024-11-06,Worth the money
+100,Headphones,Electronics,3,3000,2024-07-15,Loved it
+107,T-shirt,Fashion,2,800,2024-05-12,Very good
+187,Tablet,Electronics,1,22000,2024-09-15,Terrible experience
+162,Laptop,Electronics,1,55000,2024-01-23,Excellent product
+110,Phone,Electronics,1,15000,2024-02-22,Very good
+180,T-shirt,Fashion,2,800,2024-07-20,Worth the money
+107,Bag,Accessories,1,1800,2024-03-23,Loved it
+134,Tablet,Electronics,2,22000,2024-03-25,Not bad
+134,Bag,Accessories,3,1800,2024-01-01,Excellent product
+132,Shoes,Fashion,1,2000,2024-06-21,Amazing!
+104,Phone,Electronics,2,15000,2024-09-16,Amazing!
+140,Headphones,Electronics,2,3000,2024-10-14,Loved it
+127,Headphones,Electronics,3,3000,2024-12-13,Amazing!
+106,Tablet,Electronics,3,22000,2024-03-12,Worth the money
+172,T-shirt,Fashion,2,800,2024-06-02,Could be better
+171,T-shirt,Fashion,2,800,2024-06-10,Excellent product
+111,Phone,Electronics,3,15000,2024-04-27,Poor quality
+133,Phone,Electronics,4,15000,2024-11-01,Excellent product
+132,Tablet,Electronics,4,22000,2024-02-23,Terrible experience
+147,Shoes,Fashion,3,2000,2024-08-09,Excellent product
+122,Laptop,Electronics,1,55000,2024-11-08,Worth the money
+161,Laptop,Electronics,3,55000,2024-04-21,Satisfied
+187,Laptop,Electronics,3,55000,2024-10-29,Not bad
+136,Bag,Accessories,1,1800,2024-07-25,Very good
+198,T-shirt,Fashion,2,800,2024-12-06,Satisfied
+143,Phone,Electronics,3,15000,2024-03-06,Satisfied
+185,Laptop,Electronics,2,55000,2024-04-12,Amazing!
+190,Watch,Accessories,4,2500,2024-07-10,Could be better
+134,T-shirt,Fashion,2,800,2024-08-13,Poor quality
+164,T-shirt,Fashion,2,800,2024-11-01,Could be better
+198,Bag,Accessories,2,1800,2024-12-03,Worth the money
+146,Headphones,Electronics,3,3000,2024-11-30,Loved it
+177,Watch,Accessories,1,2500,2024-11-03,Very good
+102,Phone,Electronics,1,15000,2024-06-14,Loved it
+100,Laptop,Electronics,4,55000,2024-11-30,Very good
+104,T-shirt,Fashion,3,800,2024-01-30,Terrible experience
+189,Headphones,Electronics,3,3000,2024-04-15,Worth the money
+113,Watch,Accessories,1,2500,2024-03-21,Very good
+126,T-shirt,Fashion,4,800,2024-10-11,Poor quality
+108,Headphones,Electronics,4,3000,2024-05-17,Worth the money
+178,Tablet,Electronics,1,22000,2024-11-25,Terrible experience
+114,Headphones,Electronics,4,3000,2024-12-05,Satisfied
+189,Phone,Electronics,2,15000,2024-03-09,Terrible experience
+141,Headphones,Electronics,1,3000,2024-09-18,Very good
+176,Shoes,Fashion,2,2000,2024-07-23,Could be better
+150,Laptop,Electronics,3,55000,2024-08-22,Very good
+162,Shoes,Fashion,3,2000,2024-08-27,Could be better
+195,Headphones,Electronics,1,3000,2024-04-20,Satisfied
+151,T-shirt,Fashion,3,800,2024-05-30,Poor quality
+195,T-shirt,Fashion,3,800,2024-12-01,Could be better
+103,Tablet,Electronics,4,22000,2024-01-08,Could be better
+193,Phone,Electronics,4,15000,2024-12-25,Very good
+122,Bag,Accessories,1,1800,2024-07-02,Could be better
+114,Phone,Electronics,4,15000,2024-07-13,Excellent product
+142,Watch,Accessories,3,2500,2024-07-13,Worth the money
+128,Headphones,Electronics,4,3000,2024-04-02,Worth the money
+135,Tablet,Electronics,2,22000,2024-03-01,Terrible experience
+112,Bag,Accessories,3,1800,2024-02-20,Terrible experience
+131,Phone,Electronics,1,15000,2024-10-03,Very good
+170,Laptop,Electronics,2,55000,2024-04-01,Worth the money
+158,Phone,Electronics,2,15000,2024-11-12,Poor quality
+185,Shoes,Fashion,1,2000,2024-11-21,Amazing!
+127,Shoes,Fashion,1,2000,2024-05-12,Excellent product
+165,Headphones,Electronics,2,3000,2024-01-12,Poor quality
+141,Phone,Electronics,2,15000,2024-02-15,Poor quality
+144,T-shirt,Fashion,2,800,2024-03-18,Not bad
+161,Laptop,Electronics,3,55000,2024-10-27,Poor quality
+156,Bag,Accessories,2,1800,2024-03-13,Satisfied
+105,Shoes,Fashion,3,2000,2024-09-05,Not bad
+127,Shoes,Fashion,2,2000,2024-04-30,Worth the money
+127,Bag,Accessories,4,1800,2024-08-26,Excellent product
+143,Shoes,Fashion,3,2000,2024-12-15,Poor quality
+183,Bag,Accessories,4,1800,2024-11-14,Not bad
+129,Headphones,Electronics,1,3000,2024-03-01,Worth the money
+161,Laptop,Electronics,4,55000,2024-01-26,Amazing!
+174,Phone,Electronics,4,15000,2024-09-13,Loved it
+191,T-shirt,Fashion,3,800,2024-04-22,Not bad
+188,Tablet,Electronics,4,22000,2024-09-09,Poor quality
+161,Headphones,Electronics,3,3000,2024-07-25,Not bad
+196,T-shirt,Fashion,4,800,2024-05-06,Excellent product
+100,T-shirt,Fashion,2,800,2024-08-01,Amazing!
+126,Watch,Accessories,3,2500,2024-01-28,Could be better
+161,Laptop,Electronics,4,55000,2024-03-18,Could be better
+176,Watch,Accessories,2,2500,2024-12-30,Terrible experience
+102,Bag,Accessories,3,1800,2024-01-14,Terrible experience
+169,Watch,Accessories,3,2500,2024-11-07,Excellent product
+171,Laptop,Electronics,3,55000,2024-01-07,Could be better
+126,Shoes,Fashion,3,2000,2024-04-20,Satisfied
+108,Headphones,Electronics,3,3000,2024-08-25,Excellent product
+161,Laptop,Electronics,4,55000,2024-08-26,Satisfied
+136,Bag,Accessories,2,1800,2024-09-30,Poor quality
+196,Watch,Accessories,3,2500,2024-10-20,Amazing!
+150,Laptop,Electronics,4,55000,2024-01-15,Amazing!
+143,T-shirt,Fashion,1,800,2024-04-28,Could be better
+123,Phone,Electronics,2,15000,2024-01-28,Amazing!
+178,Phone,Electronics,1,15000,2024-02-08,Terrible experience
+158,T-shirt,Fashion,3,800,2024-09-29,Poor quality
+131,Bag,Accessories,2,1800,2024-03-26,Very good
+195,Watch,Accessories,4,2500,2024-05-05,Satisfied
+187,Watch,Accessories,1,2500,2024-01-25,Very good
+151,Headphones,Electronics,4,3000,2024-01-13,Terrible experience
+161,Headphones,Electronics,4,3000,2024-01-25,Amazing!
+157,Watch,Accessories,1,2500,2024-03-07,Amazing!
+151,Headphones,Electronics,2,3000,2024-04-18,Terrible experience
+111,Shoes,Fashion,4,2000,2024-04-20,Not bad
+138,Bag,Accessories,2,1800,2024-04-20,Amazing!
+101,Shoes,Fashion,3,2000,2024-02-03,Satisfied
+102,Headphones,Electronics,4,3000,2024-09-20,Amazing!
+155,Phone,Electronics,3,15000,2024-08-23,Could be better
+180,Headphones,Electronics,1,3000,2024-02-11,Not bad
+158,Bag,Accessories,2,1800,2024-04-10,Satisfied
+101,Watch,Accessories,2,2500,2024-06-28,Loved it
+101,Tablet,Electronics,2,22000,2024-11-15,Loved it
+191,T-shirt,Fashion,1,800,2024-11-10,Terrible experience
+153,Tablet,Electronics,1,22000,2024-08-16,Worth the money
+186,Laptop,Electronics,1,55000,2024-10-15,Could be better
+195,Watch,Accessories,1,2500,2024-05-29,Very good
+196,T-shirt,Fashion,2,800,2024-07-16,Could be better
+100,T-shirt,Fashion,4,800,2024-04-21,Not bad
+118,Shoes,Fashion,3,2000,2024-12-15,Excellent product
+101,Phone,Electronics,2,15000,2024-11-13,Not bad
+152,Tablet,Electronics,4,22000,2024-04-04,Satisfied
+143,Laptop,Electronics,1,55000,2024-11-06,Loved it
+189,Bag,Accessories,3,1800,2024-09-03,Satisfied
+131,T-shirt,Fashion,3,800,2024-08-30,Amazing!
+169,Tablet,Electronics,1,22000,2024-02-09,Amazing!
+131,T-shirt,Fashion,4,800,2024-02-05,Worth the money
+167,Phone,Electronics,2,15000,2024-08-10,Very good
+154,Bag,Accessories,4,1800,2024-11-17,Not bad
+174,Shoes,Fashion,3,2000,2024-08-07,Terrible experience
+155,Tablet,Electronics,3,22000,2024-01-04,Excellent product
+116,T-shirt,Fashion,2,800,2024-05-13,Very good
+137,Tablet,Electronics,4,22000,2024-04-03,Worth the money
+123,Tablet,Electronics,1,22000,2024-03-02,Terrible experience
+168,Watch,Accessories,3,2500,2024-07-12,Loved it
+197,Bag,Accessories,4,1800,2024-07-21,Terrible experience
+169,Tablet,Electronics,3,22000,2024-01-26,Worth the money
+185,Tablet,Electronics,4,22000,2024-06-21,Loved it
+110,Headphones,Electronics,2,3000,2024-05-12,Not bad
+115,Headphones,Electronics,4,3000,2024-04-27,Terrible experience
+196,Tablet,Electronics,4,22000,2024-10-01,Not bad
+172,Headphones,Electronics,4,3000,2024-08-12,Loved it
+158,Laptop,Electronics,4,55000,2024-04-22,Could be better
+169,T-shirt,Fashion,1,800,2024-02-16,Could be better
+179,Watch,Accessories,2,2500,2024-03-30,Poor quality
+192,Laptop,Electronics,2,55000,2024-11-15,Worth the money
+102,Shoes,Fashion,2,2000,2024-10-19,Not bad
+119,Bag,Accessories,3,1800,2024-05-18,Worth the money
+158,T-shirt,Fashion,1,800,2024-12-21,Very good
+135,Bag,Accessories,1,1800,2024-09-15,Amazing!
+118,Watch,Accessories,4,2500,2024-06-26,Terrible experience
+189,Tablet,Electronics,1,22000,2024-01-10,Amazing!
+166,Phone,Electronics,4,15000,2024-05-17,Not bad
+118,Bag,Accessories,4,1800,2024-01-13,Amazing!
+119,Phone,Electronics,4,15000,2024-05-09,Satisfied
+195,Bag,Accessories,3,1800,2024-11-16,Loved it
+170,Phone,Electronics,1,15000,2024-04-10,Poor quality
+151,Headphones,Electronics,1,3000,2024-09-29,Amazing!
+132,Bag,Accessories,3,1800,2024-02-07,Terrible experience
+139,T-shirt,Fashion,3,800,2024-04-03,Loved it
+138,T-shirt,Fashion,1,800,2024-10-31,Could be better
+181,Bag,Accessories,4,1800,2024-11-13,Loved it
+100,Phone,Electronics,2,15000,2024-08-23,Amazing!
+110,Watch,Accessories,1,2500,2024-11-29,Amazing!
+191,Shoes,Fashion,2,2000,2024-05-16,Loved it
+156,Shoes,Fashion,3,2000,2024-03-16,Satisfied
+188,Phone,Electronics,1,15000,2024-02-04,Amazing!
+149,Phone,Electronics,4,15000,2024-10-22,Very good
+122,Bag,Accessories,4,1800,2024-02-29,Worth the money
+130,Tablet,Electronics,4,22000,2024-12-14,Worth the money
+193,Phone,Electronics,1,15000,2024-09-23,Could be better
+141,Bag,Accessories,2,1800,2024-08-16,Poor quality
+198,T-shirt,Fashion,2,800,2024-11-11,Loved it
+106,Watch,Accessories,1,2500,2024-10-17,Poor quality
+115,Bag,Accessories,1,1800,2024-06-13,Could be better
+189,Bag,Accessories,3,1800,2024-12-04,Could be better
+159,Laptop,Electronics,2,55000,2024-03-18,Loved it
+101,Phone,Electronics,4,15000,2024-03-02,Terrible experience
+100,Phone,Electronics,1,15000,2024-03-29,Poor quality
+147,T-shirt,Fashion,1,800,2024-02-11,Very good
+111,Phone,Electronics,4,15000,2024-10-22,Excellent product
+168,T-shirt,Fashion,4,800,2024-10-21,Not bad
+136,Phone,Electronics,4,15000,2024-01-14,Satisfied
+131,Shoes,Fashion,1,2000,2024-06-27,Not bad
+108,Shoes,Fashion,3,2000,2024-12-18,Loved it
+198,Laptop,Electronics,3,55000,2024-03-03,Satisfied
+118,T-shirt,Fashion,1,800,2024-06-01,Loved it
+147,Headphones,Electronics,3,3000,2024-08-12,Poor quality
+179,Shoes,Fashion,4,2000,2024-11-04,Satisfied
+102,Laptop,Electronics,3,55000,2024-04-13,Worth the money
+119,Headphones,Electronics,3,3000,2024-02-08,Very good
+123,Phone,Electronics,2,15000,2024-07-16,Could be better
+153,Bag,Accessories,3,1800,2024-03-07,Amazing!
+132,T-shirt,Fashion,4,800,2024-06-27,Very good
+123,T-shirt,Fashion,4,800,2024-02-11,Very good
+174,Headphones,Electronics,3,3000,2024-01-15,Satisfied
+171,Laptop,Electronics,1,55000,2024-06-05,Satisfied
+135,Phone,Electronics,3,15000,2024-08-18,Poor quality
+137,Bag,Accessories,2,1800,2024-06-05,Poor quality
+183,Laptop,Electronics,1,55000,2024-04-06,Terrible experience
+198,Watch,Accessories,2,2500,2024-10-15,Excellent product
+188,Bag,Accessories,2,1800,2024-07-14,Loved it
+198,Laptop,Electronics,2,55000,2024-11-17,Amazing!
+124,Watch,Accessories,3,2500,2024-01-05,Loved it
+192,Shoes,Fashion,1,2000,2024-11-25,Amazing!
+117,Shoes,Fashion,2,2000,2024-04-27,Terrible experience
+181,Headphones,Electronics,3,3000,2024-06-07,Satisfied
+165,Tablet,Electronics,1,22000,2024-08-15,Loved it
+153,Bag,Accessories,4,1800,2024-08-03,Satisfied
+134,Headphones,Electronics,3,3000,2024-07-02,Poor quality
+179,T-shirt,Fashion,4,800,2024-06-05,Very good
+160,Headphones,Electronics,1,3000,2024-09-17,Loved it
+140,T-shirt,Fashion,4,800,2024-02-16,Loved it
+199,Bag,Accessories,1,1800,2024-11-27,Poor quality
+132,Phone,Electronics,3,15000,2024-05-09,Loved it
+167,Watch,Accessories,3,2500,2024-04-04,Worth the money
+132,Tablet,Electronics,4,22000,2024-08-30,Not bad
+113,Watch,Accessories,2,2500,2024-10-18,Could be better
+120,Watch,Accessories,3,2500,2024-10-25,Could be better
+147,Headphones,Electronics,4,3000,2024-03-09,Terrible experience
+119,Phone,Electronics,2,15000,2024-01-11,Terrible experience
+107,T-shirt,Fashion,4,800,2024-11-25,Very good
+106,T-shirt,Fashion,2,800,2024-02-07,Amazing!
+166,Tablet,Electronics,3,22000,2024-07-18,Terrible experience
+116,T-shirt,Fashion,2,800,2024-10-29,Loved it
+132,Tablet,Electronics,3,22000,2024-10-28,Loved it
+147,Phone,Electronics,1,15000,2024-08-05,Very good
+175,Headphones,Electronics,2,3000,2024-04-13,Not bad
+158,Bag,Accessories,1,1800,2024-07-28,Not bad
+185,Headphones,Electronics,4,3000,2024-04-20,Satisfied
+121,Watch,Accessories,3,2500,2024-11-11,Loved it
+129,Watch,Accessories,4,2500,2024-12-21,Amazing!
+137,Watch,Accessories,1,2500,2024-11-19,Poor quality
+150,Tablet,Electronics,4,22000,2024-10-19,Could be better
+153,Headphones,Electronics,2,3000,2024-05-06,Could be better
+107,T-shirt,Fashion,3,800,2024-04-01,Very good
+126,T-shirt,Fashion,1,800,2024-02-20,Poor quality
+126,Laptop,Electronics,1,55000,2024-10-22,Terrible experience
+197,Shoes,Fashion,3,2000,2024-08-01,Not bad
+120,T-shirt,Fashion,2,800,2024-09-13,Loved it
+129,Headphones,Electronics,1,3000,2024-04-10,Satisfied
+196,Headphones,Electronics,2,3000,2024-12-11,Very good
+127,T-shirt,Fashion,3,800,2024-06-30,Could be better
+163,T-shirt,Fashion,1,800,2024-11-08,Poor quality
+196,Shoes,Fashion,2,2000,2024-11-14,Could be better
+168,Phone,Electronics,3,15000,2024-02-24,Terrible experience
+160,Shoes,Fashion,3,2000,2024-05-28,Could be better
+147,Phone,Electronics,1,15000,2024-11-04,Excellent product
+118,Headphones,Electronics,4,3000,2024-07-20,Worth the money
+103,Tablet,Electronics,1,22000,2024-11-08,Very good
+134,Phone,Electronics,1,15000,2024-06-02,Satisfied
+163,Headphones,Electronics,3,3000,2024-10-17,Loved it
+148,Tablet,Electronics,1,22000,2024-08-31,Loved it
+116,Watch,Accessories,3,2500,2024-03-30,Worth the money
+143,Phone,Electronics,2,15000,2024-10-20,Could be better
+191,Tablet,Electronics,3,22000,2024-07-28,Very good
+129,Laptop,Electronics,1,55000,2024-12-12,Amazing!
+192,Tablet,Electronics,3,22000,2024-05-07,Very good
+145,Phone,Electronics,3,15000,2024-12-29,Worth the money
+105,Shoes,Fashion,2,2000,2024-06-27,Satisfied
+198,Headphones,Electronics,1,3000,2024-05-31,Very good
+136,T-shirt,Fashion,2,800,2024-06-28,Very good
+123,Bag,Accessories,1,1800,2024-12-09,Satisfied
+192,T-shirt,Fashion,1,800,2024-06-25,Terrible experience
+145,Bag,Accessories,3,1800,2024-03-03,Loved it
+152,Tablet,Electronics,2,22000,2024-05-29,Could be better
+194,Bag,Accessories,2,1800,2024-06-04,Could be better
+198,Phone,Electronics,3,15000,2024-02-18,Satisfied
+159,Laptop,Electronics,4,55000,2024-12-02,Not bad
+196,T-shirt,Fashion,1,800,2024-12-26,Could be better
+162,Laptop,Electronics,2,55000,2024-05-27,Worth the money
+184,T-shirt,Fashion,4,800,2024-12-07,Worth the money
+131,Laptop,Electronics,1,55000,2024-03-03,Worth the money
+186,Phone,Electronics,1,15000,2024-12-25,Amazing!
+132,Tablet,Electronics,1,22000,2024-11-22,Satisfied
+166,Tablet,Electronics,1,22000,2024-08-11,Could be better
+117,Phone,Electronics,3,15000,2024-08-02,Not bad
+124,Headphones,Electronics,2,3000,2024-07-29,Could be better
+194,Tablet,Electronics,2,22000,2024-02-01,Very good
+153,T-shirt,Fashion,1,800,2024-10-11,Could be better
+157,T-shirt,Fashion,4,800,2024-10-12,Amazing!
+166,Laptop,Electronics,2,55000,2024-01-19,Terrible experience
+145,T-shirt,Fashion,2,800,2024-09-13,Worth the money
+123,Headphones,Electronics,2,3000,2024-06-23,Worth the money
+131,Laptop,Electronics,2,55000,2024-07-12,Excellent product
+146,Shoes,Fashion,2,2000,2024-04-22,Could be better
+185,Headphones,Electronics,2,3000,2024-08-09,Loved it
+122,Laptop,Electronics,4,55000,2024-11-14,Loved it
+165,Headphones,Electronics,1,3000,2024-09-20,Amazing!
+126,Headphones,Electronics,3,3000,2024-02-24,Terrible experience
+101,Tablet,Electronics,4,22000,2024-05-10,Loved it
+189,Laptop,Electronics,2,55000,2024-09-22,Satisfied
+116,Phone,Electronics,4,15000,2024-06-10,Amazing!
+132,Watch,Accessories,3,2500,2024-03-27,Satisfied
+108,Headphones,Electronics,2,3000,2024-10-14,Excellent product
+142,Laptop,Electronics,4,55000,2024-12-14,Not bad
+147,Phone,Electronics,1,15000,2024-11-16,Could be better
+138,Phone,Electronics,3,15000,2024-09-03,Worth the money
+192,Tablet,Electronics,1,22000,2024-09-11,Terrible experience
+141,Tablet,Electronics,2,22000,2024-11-23,Could be better
+125,Shoes,Fashion,3,2000,2024-09-05,Satisfied
+198,Bag,Accessories,3,1800,2024-08-16,Loved it
+149,Laptop,Electronics,1,55000,2024-02-20,Loved it
+124,Watch,Accessories,3,2500,2024-04-01,Amazing!
+123,Watch,Accessories,2,2500,2024-09-20,Poor quality
+112,Laptop,Electronics,4,55000,2024-10-17,Worth the money
+159,Watch,Accessories,2,2500,2024-03-28,Amazing!
+106,Tablet,Electronics,4,22000,2024-10-14,Could be better
+156,Bag,Accessories,3,1800,2024-10-28,Terrible experience
+135,Phone,Electronics,2,15000,2024-06-13,Loved it
+144,Laptop,Electronics,3,55000,2024-08-10,Poor quality
+119,Headphones,Electronics,2,3000,2024-01-07,Poor quality
+164,Laptop,Electronics,1,55000,2024-09-19,Amazing!
+107,Phone,Electronics,1,15000,2024-05-30,Terrible experience
+115,Tablet,Electronics,4,22000,2024-05-26,Amazing!
+113,Phone,Electronics,1,15000,2024-02-05,Not bad
+175,Watch,Accessories,2,2500,2024-07-06,Satisfied
+186,Tablet,Electronics,1,22000,2024-01-02,Loved it
+114,Phone,Electronics,1,15000,2024-10-29,Not bad
+191,Headphones,Electronics,2,3000,2024-01-11,Terrible experience
+197,Shoes,Fashion,3,2000,2024-07-13,Could be better
+165,Tablet,Electronics,4,22000,2024-04-28,Loved it
+131,Laptop,Electronics,1,55000,2024-01-20,Excellent product
+186,T-shirt,Fashion,2,800,2024-10-19,Worth the money
+162,Headphones,Electronics,2,3000,2024-09-12,Terrible experience
+185,Phone,Electronics,1,15000,2024-08-13,Terrible experience
+150,Bag,Accessories,4,1800,2024-12-20,Very good
+124,T-shirt,Fashion,4,800,2024-12-07,Very good
+157,Tablet,Electronics,1,22000,2024-10-06,Very good
+162,Shoes,Fashion,2,2000,2024-07-20,Loved it
+161,Headphones,Electronics,3,3000,2024-04-29,Terrible experience
+121,Headphones,Electronics,4,3000,2024-08-02,Amazing!
+157,Tablet,Electronics,1,22000,2024-08-11,Loved it
+157,T-shirt,Fashion,1,800,2024-04-24,Loved it
+185,Shoes,Fashion,1,2000,2024-01-14,Amazing!
+148,T-shirt,Fashion,2,800,2024-02-09,Satisfied
+151,Shoes,Fashion,1,2000,2024-08-24,Very good
+141,Headphones,Electronics,1,3000,2024-12-24,Amazing!
+169,Watch,Accessories,2,2500,2024-09-02,Terrible experience
+114,Headphones,Electronics,2,3000,2024-08-22,Excellent product
+153,Headphones,Electronics,2,3000,2024-01-04,Could be better
+159,Tablet,Electronics,1,22000,2024-01-29,Worth the money
+196,Tablet,Electronics,3,22000,2024-04-07,Terrible experience
+107,Tablet,Electronics,3,22000,2024-10-19,Poor quality
+152,Watch,Accessories,2,2500,2024-11-21,Terrible experience
+159,Bag,Accessories,1,1800,2024-05-07,Loved it
+104,Watch,Accessories,4,2500,2024-02-11,Not bad
+167,T-shirt,Fashion,2,800,2024-02-10,Satisfied
+105,Bag,Accessories,1,1800,2024-02-03,Not bad
+195,Bag,Accessories,1,1800,2024-06-13,Excellent product
+193,Watch,Accessories,3,2500,2024-03-16,Loved it
+146,Bag,Accessories,2,1800,2024-04-26,Amazing!
+198,Shoes,Fashion,1,2000,2024-12-07,Loved it
+154,Phone,Electronics,1,15000,2024-01-27,Worth the money
+139,Watch,Accessories,2,2500,2024-10-13,Very good
+151,Tablet,Electronics,4,22000,2024-08-06,Very good
+115,Tablet,Electronics,4,22000,2024-04-07,Excellent product
+112,Shoes,Fashion,1,2000,2024-08-24,Amazing!
+129,Shoes,Fashion,3,2000,2024-11-04,Very good
+118,Tablet,Electronics,1,22000,2024-06-21,Could be better
+116,Watch,Accessories,2,2500,2024-07-08,Satisfied
+162,Bag,Accessories,4,1800,2024-02-15,Very good
+118,Watch,Accessories,4,2500,2024-05-09,Terrible experience
+191,Bag,Accessories,3,1800,2024-11-05,Poor quality
+157,Tablet,Electronics,3,22000,2024-07-11,Terrible experience
+154,Phone,Electronics,4,15000,2024-06-29,Satisfied
+189,Laptop,Electronics,1,55000,2024-10-08,Not bad
+189,Headphones,Electronics,3,3000,2024-05-28,Not bad
+161,Laptop,Electronics,3,55000,2024-10-22,Amazing!
+122,Laptop,Electronics,1,55000,2024-06-12,Very good
+108,Tablet,Electronics,3,22000,2024-07-05,Worth the money
+111,Headphones,Electronics,3,3000,2024-08-19,Excellent product
+100,Phone,Electronics,2,15000,2024-11-05,Poor quality
+157,Phone,Electronics,3,15000,2024-02-24,Could be better
+100,Watch,Accessories,2,2500,2024-05-31,Poor quality
+133,Bag,Accessories,4,1800,2024-03-09,Worth the money
+195,T-shirt,Fashion,2,800,2024-10-15,Terrible experience
+147,Bag,Accessories,3,1800,2024-02-05,Satisfied
+188,Shoes,Fashion,3,2000,2024-05-27,Worth the money
+100,Shoes,Fashion,4,2000,2024-08-14,Very good
+115,Bag,Accessories,2,1800,2024-12-02,Satisfied
+160,T-shirt,Fashion,3,800,2024-12-30,Loved it
+163,Shoes,Fashion,2,2000,2024-07-19,Not bad
+162,Tablet,Electronics,1,22000,2024-03-13,Could be better
+168,Tablet,Electronics,1,22000,2024-10-22,Could be better
+121,Phone,Electronics,1,15000,2024-05-08,Loved it
+192,Headphones,Electronics,3,3000,2024-03-01,Terrible experience
+166,Shoes,Fashion,2,2000,2024-04-13,Very good
+175,Tablet,Electronics,3,22000,2024-01-25,Poor quality
+125,Headphones,Electronics,3,3000,2024-10-17,Amazing!
+115,Headphones,Electronics,4,3000,2024-08-16,Loved it
+150,Headphones,Electronics,3,3000,2024-06-20,Not bad
+185,Bag,Accessories,2,1800,2024-04-11,Loved it
+156,Laptop,Electronics,3,55000,2024-01-12,Not bad
+128,Bag,Accessories,4,1800,2024-04-10,Satisfied
+177,Watch,Accessories,1,2500,2024-10-31,Satisfied
+191,Headphones,Electronics,2,3000,2024-01-17,Could be better
+168,Phone,Electronics,3,15000,2024-02-26,Amazing!
+146,Headphones,Electronics,4,3000,2024-10-29,Excellent product
+193,Phone,Electronics,4,15000,2024-11-13,Satisfied
+161,Tablet,Electronics,3,22000,2024-08-03,Could be better
+168,T-shirt,Fashion,3,800,2024-09-20,Satisfied
+175,Watch,Accessories,1,2500,2024-05-28,Not bad
+115,T-shirt,Fashion,1,800,2024-08-02,Satisfied
+189,Headphones,Electronics,4,3000,2024-07-16,Worth the money
+189,Laptop,Electronics,2,55000,2024-01-25,Excellent product
+147,Headphones,Electronics,4,3000,2024-03-29,Loved it
+184,Phone,Electronics,3,15000,2024-05-22,Satisfied
+138,Watch,Accessories,2,2500,2024-12-30,Worth the money
+199,Laptop,Electronics,4,55000,2024-02-16,Could be better
+132,Watch,Accessories,4,2500,2024-09-22,Amazing!
+193,Shoes,Fashion,1,2000,2024-07-17,Not bad
+122,Shoes,Fashion,1,2000,2024-10-08,Terrible experience
+109,Watch,Accessories,2,2500,2024-03-26,Terrible experience
+168,Headphones,Electronics,3,3000,2024-09-26,Worth the money
+199,Headphones,Electronics,3,3000,2024-04-26,Loved it
+133,Headphones,Electronics,3,3000,2024-05-16,Poor quality
+151,Laptop,Electronics,4,55000,2024-06-24,Loved it
+194,Laptop,Electronics,3,55000,2024-11-10,Worth the money
+109,T-shirt,Fashion,3,800,2024-03-22,Amazing!
+118,Watch,Accessories,1,2500,2024-04-12,Very good
+157,Bag,Accessories,3,1800,2024-01-14,Excellent product
+195,Headphones,Electronics,3,3000,2024-05-31,Terrible experience
+100,Laptop,Electronics,4,55000,2024-04-17,Loved it
+168,Watch,Accessories,2,2500,2024-10-27,Could be better
+103,Bag,Accessories,1,1800,2024-05-10,Poor quality
+115,Laptop,Electronics,4,55000,2024-06-19,Not bad
+123,Tablet,Electronics,3,22000,2024-07-01,Excellent product
+179,Watch,Accessories,3,2500,2024-12-29,Satisfied
+101,T-shirt,Fashion,4,800,2024-01-15,Very good
+191,Tablet,Electronics,1,22000,2024-01-04,Could be better
+131,Bag,Accessories,1,1800,2024-07-28,Very good
+190,Shoes,Fashion,1,2000,2024-01-16,Excellent product
+183,Phone,Electronics,2,15000,2024-04-17,Could be better
+123,Tablet,Electronics,3,22000,2024-11-06,Very good
+111,Laptop,Electronics,2,55000,2024-06-18,Not bad
+149,Shoes,Fashion,3,2000,2024-09-07,Amazing!
+134,Tablet,Electronics,1,22000,2024-09-25,Poor quality
+132,Bag,Accessories,4,1800,2024-09-30,Satisfied
+132,Shoes,Fashion,3,2000,2024-04-05,Amazing!
+160,Laptop,Electronics,2,55000,2024-02-08,Loved it
+150,Bag,Accessories,2,1800,2024-01-29,Could be better
+142,Phone,Electronics,1,15000,2024-11-13,Poor quality
+111,T-shirt,Fashion,1,800,2024-08-23,Loved it
+166,Tablet,Electronics,4,22000,2024-09-28,Not bad
+164,Watch,Accessories,3,2500,2024-08-23,Very good
+132,Watch,Accessories,2,2500,2024-09-22,Terrible experience
+139,Watch,Accessories,4,2500,2024-12-24,Excellent product
+173,Bag,Accessories,2,1800,2024-03-05,Could be better
+142,T-shirt,Fashion,3,800,2024-06-25,Very good
+143,Tablet,Electronics,4,22000,2024-05-21,Very good
+128,T-shirt,Fashion,2,800,2024-06-06,Satisfied
+112,Phone,Electronics,2,15000,2024-11-19,Excellent product
+111,Watch,Accessories,1,2500,2024-10-19,Not bad
+194,Shoes,Fashion,1,2000,2024-07-11,Satisfied
+145,T-shirt,Fashion,3,800,2024-03-13,Very good
+101,T-shirt,Fashion,1,800,2024-10-31,Satisfied
+134,T-shirt,Fashion,4,800,2024-12-09,Not bad
+186,Watch,Accessories,3,2500,2024-05-19,Worth the money
+180,Phone,Electronics,1,15000,2024-10-19,Could be better
+189,Shoes,Fashion,3,2000,2024-07-16,Worth the money
+107,Headphones,Electronics,2,3000,2024-11-14,Worth the money
+192,Laptop,Electronics,3,55000,2024-12-09,Excellent product
+125,Shoes,Fashion,1,2000,2024-03-02,Excellent product
+173,Watch,Accessories,1,2500,2024-08-13,Not bad
+189,Watch,Accessories,4,2500,2024-07-17,Excellent product
+133,Shoes,Fashion,3,2000,2024-09-16,Could be better
+106,Phone,Electronics,4,15000,2024-03-12,Worth the money
+167,Bag,Accessories,3,1800,2024-12-14,Terrible experience
+157,Laptop,Electronics,1,55000,2024-11-05,Very good
+174,Tablet,Electronics,1,22000,2024-08-30,Loved it
+128,Watch,Accessories,3,2500,2024-11-25,Terrible experience
+135,Laptop,Electronics,1,55000,2024-08-13,Loved it
+188,T-shirt,Fashion,1,800,2024-08-05,Satisfied
+120,Phone,Electronics,2,15000,2024-08-28,Terrible experience
+135,Headphones,Electronics,4,3000,2024-09-15,Loved it
+109,Phone,Electronics,1,15000,2024-09-18,Excellent product
+172,Tablet,Electronics,2,22000,2024-09-17,Amazing!
+123,Bag,Accessories,3,1800,2024-02-16,Very good
+163,Tablet,Electronics,1,22000,2024-06-25,Loved it
+198,Laptop,Electronics,4,55000,2024-04-08,Very good
+148,Watch,Accessories,1,2500,2024-08-28,Satisfied
+198,Shoes,Fashion,2,2000,2024-06-26,Very good
+135,Shoes,Fashion,1,2000,2024-03-02,Could be better
+181,Watch,Accessories,3,2500,2024-08-03,Amazing!
+195,Headphones,Electronics,3,3000,2024-06-08,Loved it
+123,Bag,Accessories,4,1800,2024-09-25,Very good
+122,Laptop,Electronics,1,55000,2024-03-29,Terrible experience
