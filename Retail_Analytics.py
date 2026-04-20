@@ -14,15 +14,20 @@ from sklearn.metrics import classification_report, accuracy_score
 from textblob import TextBlob
 from flask import Flask, request, jsonify
 
-# =========================================
-# 2. LOAD DATASET
-# =========================================
-# Replace with your dataset path
-df = pd.read_csv(r"C:\Users\Vimal\Desktop\Monalisa\AI Data Analytics\Projects\Day 89\retail_data.csv")
 
 
-print("Initial Data:")
-print(df.head())
+#======================================
+# 2. LOAD DATASET (Updated for Render)
+# =========================================
+# This finds the file inside your GitHub folder instead of your C: drive
+base_path = os.path.dirname(__file__)
+file_path = os.path.join(base_path, 'retail_data.csv')
+
+try:
+    df = pd.read_csv(file_path)
+except FileNotFoundError:
+    print("Dataset not found! Please ensure retail_data.csv is in your GitHub repo.")
+
 
 # =========================================
 # 3. DATA CLEANING
@@ -121,15 +126,16 @@ def recommend(product_name):
 print("\nRecommendations for a sample product:")
 print(recommend(df['Product'].iloc[0]))
 
+#=========================================
+# 8. FLASK API (Updated for Render)
 # =========================================
-# 8. FLASK API DEPLOYMENT
-# =========================================
-
 app = Flask(__name__)
 
 @app.route('/')
 def home():
     return "Retail AI API Running"
+
+
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -147,5 +153,12 @@ def predict():
         "Churn Prediction": int(prediction)
     })
 
+
+ 
+
+
+
 if __name__ == "__main__":
- app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+    # Render assigns a dynamic port, so we must use os.environ.get
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
